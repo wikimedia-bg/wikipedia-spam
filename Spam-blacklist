@@ -9,33 +9,94 @@
 
  # <!-- НЕ ПРОМЕНЯЙТЕ ТОЗИ РЕД --> <pre>
 
-100obekta\.com # Спам, съдържанието на сайта е копирано от Уикипедия в нарушение на лиценза
-bansko24\.com
-cmtbg\.com # Owned by the wikipedia.bg domain cybersquatter - Dimitar Mihaylov Tashev
-elika\.blog\.bg
-go[_-]to[_-]quebec\.
-hobbykafe\.com # Спам
-hoseyni\.com # Спам в Пчелен мед
-irusev\.hit\.bg # [[Уикипедия:Заявки към администраторите/2009/27]] : Спам в [[Баните]] и [[Община Баните]]
-jr-rentacar\.com # Редовен спам в [[Коли под наем]]
-kalendar-kyustendil\.hit\.bg 
-kingofmarble-shmatko\.com # самопромотиращ се украински скулптор
+### Домейни
+
+# 0-9
+100obekta\.com$ # Спам, съдържанието на сайта е копирано от Уикипедия в нарушение на лиценза
+
+# A
+
+# B
+bansko24\.com$ # Reason?
+
+# C
+cmtbg\.com$ # Owned by the wikipedia.bg domain cybersquatter - Dimitar Mihaylov Tashev
+
+# D
+
+# E
+elika\.blog\.bg$ # Reason?
+
+# F
+fasadibg\.com$ # Спам - [[Специални:Приноси/95.111.45.250]]
+
+# G
+
+# H
+hobbykafe\.com$ # Спам
+hoseyni\.com$ # Спам в Пчелен мед
+hrana-bg\.eu$ # Спам - [[Специални:Приноси/130.204.190.113]]
+
+# I
+irusev\.hit\.bg$ # [[Уикипедия:Заявки към администраторите/2009/27]] : Спам в [[Баните]] и [[Община Баните]]
+
+# J
+jr-rentacar\.com$ # 2014-02-18: Редовен спам в [[Коли под наем]]
+
+# K
+kalendar-kyustendil\.hit\.bg$ # Reason?
+kingofmarble-shmatko\.com$ # самопромотиращ се украински скулптор
+koledata\.com$ # [[Уикипедия:Заявки към администраторите/2012/49]]
+
+# L
+
+# M
+
+# N
+
+# O
+obekti\.tourism-bg\.net$ # [[Специални:Приноси/193.68.133.137]], [[Специални:Приноси/94.26.24.69]]
+okolosveta\.com$ # Reason?
+ozelenyavane\.com$ # Спам - [[Специални:Приноси/Taratantsi]]
+
+# P
+page\.tl$ # [[Уикипедия:Заявки към администраторите/2012/49]]
+pochivka\.com$ # Спам от множество IP-адреси
+pravatami\.bg$ # Спам - [[Специални:Приноси/Polina.naydenova]]
+
+# Q
+
+# R
+ruskidnevnik\.com$ # Спам - [[Специални:Приноси/81.26.145.155]]
+
+# S
+searchquotes\.com$  # Спам от декември 2012, user:Lewis2324
+
+# T
+turistbg\.com$ # Reason?
+
+# U
+udobno\.hit\.bg$ # Спам през различни айпита в над 10 статии на 25 септември 2009
+
+# V
+visit\.bg$ # Спам
+
+# W
+
+# X
+xn--80aqalsg8b\.net$ # Спам в [[Априлци]]
+xn--80aeegg0ckt\.com$ # Спам - [[Специални:Приноси/Ppy]]
+
+# Y
+
+# Z
+
+### Думи
+
+# A-Z
+go[_-]to[_-]quebec\. # Reason?
 krushuna123 # [[Уикипедия:Заявки към администраторите/2009/34]] : Спам в [[Крушуна]], [[Крушунски водопад]] и [[Деветашка пещера]]
-obekti\.tourism-bg\.net # [[Специални:Приноси/193.68.133.137]], [[Специални:Приноси/94.26.24.69]]
-okolosveta\.com
-pochivka\.com # Спам от множество IP-адреси
-searchquotes\.com  # Спам от декември 2012, user:Lewis2324
-turistbg\.com
-udobno\.hit\.bg # Спам през различни айпита в над 10 статии на 25 септември 2009
-visit\.bg # Спам
-xn--80aqalsg8b\.net # Спам в [[Априлци]]
-xn--80aeegg0ckt\.com # Спам - [[Специални:Приноси/Ppy]]
-fasadibg\.com # Спам - [[Специални:Приноси/95.111.45.250]]
-koledata\.com # [[Уикипедия:Заявки към администраторите/2012/49]]
-page\.tl # [[Уикипедия:Заявки към администраторите/2012/49]]
-ruskidnevnik\.com # Спам - [[Специални:Приноси/81.26.145.155]]
-pravatami\.bg # Спам - [[Специални:Приноси/Polina.naydenova]]
-hrana-bg\.eu # Спам - [[Специални:Приноси/130.204.190.113]]
-ozelenyavane\.com # Спам - [[Специални:Приноси/Taratantsi]]
+
+# А-Я
 
 # </pre> <!-- НЕ ПРОМЕНЯЙТЕ ТОЗИ РЕД -->
