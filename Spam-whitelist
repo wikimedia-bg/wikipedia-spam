@@ -11,4 +11,5 @@ lyrikline\.org
 pinspenyes\.com 
 \bwww\.badastronomy\.com\/ #overriding a global blacklist entry
 radiomakedonia\.ro  #overriding a global blacklist entry -- У:ЗА/2013/02
+hungarybudapestguide\.com #overriding a global blacklist entry -- служи за източник
  #</pre> <!-- leave this line exactly as it is -->
