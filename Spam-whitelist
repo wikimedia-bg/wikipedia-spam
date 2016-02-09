@@ -1,15 +1,115 @@
- #<!-- leave this line exactly as it is --> <pre>
-# External URLs matching this list will *not* be blocked even if they would
-# have been blocked by blacklist entries.
-#
-# Syntax is as follows:
-#   * Everything from a "#" character to the end of the line is a comment
-#   * Every non-blank line is a regex fragment which will only match hosts inside URLs
+ #
+ # Външни URL, попадащи в този списък, *няма* да бъдат блокирани при добавяне в страница,
+ # дори ако иначе биха били блокирани от глобалния или локалния черни списъци.
+ # За документация вижте https://www.mediawiki.org/wiki/Extension:SpamBlacklist#Whitelist
+ #
+ # Синтаксисът на списъка е следният:
+ #   * Всичко от символа "#" до края на реда е коментар
+ #   * Всеки непразен ред е [[регулярен израз]], съответстващ на '''хост''' частта от URL
+ #
+
+ ### НАЧАЛО НА СПИСЪКА ### <!-- НЕ ПРОМЕНЯЙТЕ ТОЗИ РЕД --> <pre>
+
+### A ###
+
+
+### B ###
+
+# overriding a global blacklist entry
+\bwww\.badastronomy\.com\/
+
+
+### C ###
+
+
+### D ###
+
+
+### E ###
+
+
+### F ###
+
+
+### G ###
+
+
+### H ###
+
+# overriding a global blacklist entry -- служи за източник
+hungarybudapestguide\.com
+
+
+### I ###
+
+
+### J ###
+
+
+### K ###
+
+# Няма посочена причина
 kosmos\.pass\.as
-oseculoprodigioso\.blogspot\.com
+
+
+### L ###
+
+# Няма посочена причина
 lyrikline\.org
+
+
+### M ###
+
+
+### N ###
+
+
+### O ###
+
+# Няма посочена причина
+oseculoprodigioso\.blogspot\.com
+
+
+### P ###
+
+# Няма посочена причина
 pinspenyes\.com 
-\bwww\.badastronomy\.com\/ #overriding a global blacklist entry
-radiomakedonia\.ro  #overriding a global blacklist entry -- У:ЗА/2013/02
-hungarybudapestguide\.com #overriding a global blacklist entry -- служи за източник
- #</pre> <!-- leave this line exactly as it is -->
+
+
+### Q ###
+
+
+### R ###
+
+# overriding a global blacklist entry -- У:ЗА/2013/02
+radiomakedonia\.ro
+
+
+### S ###
+
+
+### T ###
+
+
+### U ###
+
+
+### V ###
+
+
+### W ###
+
+
+### X ###
+
+
+### Y ###
+
+
+### Z ###
+
+
+### А-Я ###
+
+
+### КРАЙ НА СПИСЪКА ###</pre> <!-- НЕ ПРОМЕНЯЙТЕ ТОЗИ РЕД -->
