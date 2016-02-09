@@ -139,6 +139,11 @@ ozelenyavane\.com
 # [[Уикипедия:Заявки към администраторите/2012/49]]
 page\.tl
 
+# Манипулативни преводи на статии, например:
+# http://www.plovdivglas.bg/103386/merkel-otide-na-kraka-pri-erdogan-da-go-moli-da-udrzhi-bezha.html
+# http://www.tagesspiegel.de/politik/merkel-bei-erdogan-in-der-fluechtlingskrise-gibt-es-keine-guten-optionen-fuer-den-westen/12931544.html
+plovdivglas\.bg
+
 # Спам от множество IP-адреси
 pochivka\.com
 
