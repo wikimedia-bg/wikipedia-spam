@@ -254,6 +254,7 @@ hrana-bg\.eu
 
 # Мнима медия: http://www.capital.bg/biznes/media_i_reklama/2014/01/03/2213090_sredstva_za_masova_dezinformaciia/
 inews\.bg
+m\.inews\.bg
 
 # Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
 infonews\.bg
@@ -338,6 +339,9 @@ lubopitnoto\.net
 
 ### M ###
 
+# Сензации / Псевдонаука
+megavselena\.bg
+
 # Сензации / Жълта преса
 mignews\.info/ 
 
@@ -367,6 +371,9 @@ newsmedia\.bg
 
 # Мнима медия: http://www.capital.bg/biznes/media_i_reklama/2014/01/03/2213090_sredstva_za_masova_dezinformaciia/
 noligarch\.com
+
+# Анонимна медия
+novavarna\.net
 
 # Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
 novini\.cc
