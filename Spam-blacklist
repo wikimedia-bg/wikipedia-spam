@@ -451,8 +451,8 @@ info\.kopp-verlag\.de
 # Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
 # според седмичния обзор на [[Европейската служба за външна дейност]]:
 # http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-kp\.md
-kp\.ru
+\bkp\.md\b
+\bkp\.ru\b
 
 # RSS агрегатор
 kpd\.bg
