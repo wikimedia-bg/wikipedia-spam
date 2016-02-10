@@ -193,6 +193,11 @@ czechfreepress\.cz
 # http://www.capital.bg/biznes/media_i_reklama/2015/12/18/2672535_dimnata_zavesa_na_mnimite_medii/
 dailypress\.bg
 
+# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
+# според седмичния обзор на [[Европейската служба за външна дейност]]:
+# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
+dan-news\.info
+
 # Мнима медия: http://www.capital.bg/biznes/media_i_reklama/2014/01/03/2213090_sredstva_za_masova_dezinformaciia/
 div\.bg
 
@@ -377,6 +382,11 @@ koledata\.com
 # Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
 # според седмичния обзор на [[Европейската служба за външна дейност]]:
 # http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
+info\.kopp-verlag\.de
+
+# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
+# според седмичния обзор на [[Европейската служба за външна дейност]]:
+# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
 kp\.md
 kp\.ru
 
@@ -390,6 +400,11 @@ lentata\.com
 
 # Сензации / Жълта преса
 life\.dir\.bg 
+
+# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
+# според седмичния обзор на [[Европейската служба за външна дейност]]:
+# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
+lifenews\.ru
 
 # Сензации / Жълта преса
 lifescandal\.com 
@@ -724,8 +739,18 @@ turistbg\.com
 # Спам през различни айпита в над 10 статии на 25 септември 2009
 udobno\.hit\.bg
 
+# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
+# според седмичния обзор на [[Европейската служба за външна дейност]]:
+# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
+unian\.net
 
 ### V ###
+
+# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
+# според седмичния обзор на [[Европейската служба за външна дейност]]:
+# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
+# NB: Виж цитираната връзка към опровергаващата статия, http://bit.ly/1PNNd0d
+vesti-ukr\.com
 
 # Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
 vestnikat\.com
@@ -783,6 +808,11 @@ xn--80aeegg0ckt\.com
 
 # Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
 zapernik\.com
+
+# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
+# според седмичния обзор на [[Европейската служба за външна дейност]]:
+# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
+zerohedge\.com
 
 # Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
 zoranews\.com
