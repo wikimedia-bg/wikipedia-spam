@@ -238,7 +238,7 @@ dan-news\.info
 deutsche-wirtschafts-nachrichten\.de
 
 # Мнима медия: http://www.capital.bg/biznes/media_i_reklama/2014/01/03/2213090_sredstva_za_masova_dezinformaciia/
-div\.bg
+\bdiv\.bg\b
 
 # Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
 dnes\.co\.uk
