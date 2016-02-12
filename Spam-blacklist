@@ -39,7 +39,7 @@
  #     изхождайте от семантично най-важната част на домейна. Например, домейни като
  #     „www.example.com“, „info.example.com“ и „news.example.com“ е правилно да бъдат
  #     сортирани като „еxample.com“. Обратно, домейни като „pesho.wordpress.com“,
- #     „draganka.livejournal.com“, „trigonosaurus.blogspot.com“ е правилно да бъдат
+ #     „draganka.wordpress.com“, „trigonosaurus.wordpress.com“ е правилно да бъдат
  #     сортирани според съответния домейн от трето ниво. Не забравяйте, че частите на
  #     домейните се разделят от точка, но не и от други знаци. „news.example.com“ е
  #     домейн от трето ниво, докато „news-example.com“ е от второ ниво (и затова следва
