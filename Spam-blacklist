@@ -221,6 +221,9 @@
 # http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
 \bceskoaktualne\.cz\b
 
+# Сензации / Псевдонаука
+\bchudesa\.net\b
+
 # Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
 \bclassa\.bg\b
 
@@ -577,6 +580,9 @@
 # Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
 \bnbox\.bg\b
 
+# Сензации / Псевдонаука
+\bnerazgadano\.info\b
+
 # Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
 # според седмичния обзор на [[Европейската служба за външна дейност]]:
 # http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
@@ -828,6 +834,9 @@
 
 ### S ###
 
+# Сензации / Псевдонаука
+\bsanovnik\.bg\b
+
 # Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
 \bscandalplus\.com\b
 
@@ -931,6 +940,9 @@
 # според седмичния обзор на [[Европейската служба за външна дейност]]:
 # http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
 \btitkolthirek\.hu\b
+
+# Анонимна медия (единствено анонимен e-mail адрес в Gmail за връзка)
+\btopactualno\.com\b
 
 # Сензации / Жълта преса
 \btoppresa\.com\b
