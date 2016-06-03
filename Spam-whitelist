@@ -108,8 +108,11 @@
 # overriding a global blacklist entry -- У:ЗА/2013/02
 \bradiomakedonia\.ro\b
 
+# [[Варяг (бронепалубен крайцер)]]
+\bria\.ru/society/20131128/980444519\.html\b
 
 ### S ###
+
 # overriding a global blacklist entry -- Беседа:Феликс Петанчич‎
 \hrcak\.srce\.hr\b
 
