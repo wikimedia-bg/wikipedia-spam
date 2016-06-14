@@ -187,6 +187,9 @@
 # http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
 \bbreitbart\.com\b
 
+# Спам / потенциално зловредни връзки
+\bbsb-soft\.com\b
+
 # Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
 \bbudnaera\.com\b
 
@@ -863,6 +866,9 @@
 
 # Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
 \bslivensega\.wordpress\.com\b
+
+# Спам / потенциално зловредни връзки
+\bsoftoworld\.com\b
 
 # Сензации / Жълта преса
 \bsosnovini\.bg\b
