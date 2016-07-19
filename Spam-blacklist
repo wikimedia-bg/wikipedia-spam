@@ -86,54 +86,8 @@
 # Спам, съдържанието на сайта е копирано от Уикипедия в нарушение на лиценза
 \b100obekta\.com\b
 
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\b1kam1\.eu\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\b1tv\.ru\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\b30dumi\.eu\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\b5-tv\.ru\b
-
 
 ### A ###
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]], изпълняваща
-# функциите на външно министерство и на дипломатически корпус на Европейския съюз:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bac24\.cz\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\bagoravox\.fr\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\baeronet\.cz\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\balarmanews\.com\b
-
-# RSS агрегатор
-\balfarss\.net\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\balterinformation\.wordpress\.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\bantifashist\.com\b
 
 
 ### B ###
@@ -141,162 +95,26 @@
 # Няма описание на причината
 \bbansko24\.com\b
 
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bbarometar\.net\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bbezpartien\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bbgdnes\.bg\b
-
-# Сензации / Жълта преса
-\bbgkliuki\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bbgmak\.eu\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bbgnet\.info\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bbgnovosti.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\bbeforeitsnews\.com\b
-
-# Разследване: http://mileng.eu/A/B/Osvetlyavane-na-mediite/
-\bbig5\.bg\b
-
-# Сензации / Жълта преса
-\bblitz\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bbnews\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bbpost\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bbradva\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\bbreitbart\.com\b
-
 # Спам / потенциално зловредни връзки
 \bbsb-soft\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bbudnaera\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bbulbox\.net\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bbulgaria-news\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bbulgariapress\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bbulgariasega\.com\b
 
 # [[Специални:Приноси/79.132.24.152]], [[Специални:Приноси/79.132.3.212]]
 \bbulgaria-travel\.info\b
 
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bbultimes\.com\b
-
 
 ### C ###
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bcasopis-sifra\.cz\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bceskoaktualne\.cz\b
-
-# Сензации / Псевдонаука
-\bchudesa\.net\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bclassa\.bg\b
 
 # Owned by the wikipedia.bg domain cybersquatter - Dimitar Mihaylov Tashev
 \bcmtbg\.com\b
 
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\bcont\.ws\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bcrimes\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bczechfreepress\.cz\b
-
 
 ### D ###
-
-# Взаимно препечатващи се анонимни медии:
-# http://www.capital.bg/biznes/media_i_reklama/2015/12/18/2672535_dimnata_zavesa_na_mnimite_medii/
-\bdailypress\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bdan-news\.info\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\bdeutsche-wirtschafts-nachrichten\.de\b
-
-# Мнима медия: http://www.capital.bg/biznes/media_i_reklama/2014/01/03/2213090_sredstva_za_masova_dezinformaciia/
-\bdiv\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bdnes\.co\.uk\b
-
-# Мнима медия: http://www.capital.bg/biznes/media_i_reklama/2014/01/03/2213090_sredstva_za_masova_dezinformaciia/
-\bdnes-24\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bdnesplus\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bdnr-online\.ru\b
-
-# Взаимно препечатващи се анонимни медии:
-# http://www.capital.bg/biznes/media_i_reklama/2015/12/18/2672535_dimnata_zavesa_na_mnimite_medii/
-\bdunavmost\.bg\b
 
 
 ### E ###
 
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\beadaily\.com\b
-
 # Няма описание на причината
 \belika\.blog\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bexpressnews\.bg\b
 
 
 ### F ###
@@ -307,65 +125,14 @@
 # Спам - [[Специални:Приноси/95.111.45.250]]
 \bfasadibg\.com\b
 
-# Мнима медия: http://www.capital.bg/biznes/media_i_reklama/2014/01/03/2213090_sredstva_za_masova_dezinformaciia/
-\bfitwell\.bg\b
-
-# RSS агрегатор
-\bflip\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bforumnews\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bfree-bg\.net\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bfreshnewsbg\.com\b
-
-# Сензации / Жълта преса
-\bfrognews\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bfront\.bg\b
-
 
 ### G ###
 
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bgrama\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bglashatai\.com\b
-
-# Анонимна медия
-\bgnews\.bg\b
-
-# Сензации / Жълта преса
-\bgossip\.bg\b
 
 ### H ###
 
-# Мнима медия: http://www.capital.bg/biznes/media_i_reklama/2014/01/03/2213090_sredstva_za_masova_dezinformaciia/
-\bhashtag-bg\.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\bhidfo\.ru\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bhlavnespravy\.sk\b
-
 # Спам
 \bhobbykafe\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bhotarena\.net\b
-
-# Сензации / Жълта преса
-\bhotnews\.bg\b
 
 # Спам в [[Пчелен мед]]
 \bhoseyni\.com\b
@@ -376,60 +143,14 @@
 
 ### I ###
 
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bilgiomale\.it\b
-
-# Мнима медия: http://www.capital.bg/biznes/media_i_reklama/2014/01/03/2213090_sredstva_za_masova_dezinformaciia/
-\binews\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\binfonews\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\binform-relig\.ru\b
-
-# Анонимен агрегатор, „Възможно е огромна част от статиите качени в уеб сайта, да са НЕДОСТОВЕРНИ и да не отговарят на съдържанието написано в тях.“
-\binformiran365\.net\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\binterfax-religion\.com\b
-
 # [[Уикипедия:Заявки към администраторите/2009/27]] : Спам в [[Баните]] и [[Община Баните]]
 \birusev\.hit\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bizvestia\.ru\b
-
-# Сензации / Жълта преса
-\bizvestni\.info\b
 
 
 ### J ###
 
-# Мнима медия: http://www.capital.bg/biznes/media_i_reklama/2014/01/03/2213090_sredstva_za_masova_dezinformaciia/
-\bjenite\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bjiloto\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bjpgazeta\.ru\b
-
 # [[Уикипедия:Заявки към администраторите/2014/08]]: Редовен спам в [[Коли под наем]]
 \bjr-rentacar\.com\b
-
-# Сензации / Жълта преса
-\bjylto\.com\b
 
 
 ### K ###
@@ -437,215 +158,20 @@
 # Няма описание на причината
 \bkalendar-kyustendil\.hit\.bg\b
 
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\bkarpathir\.com\b
-
 # самопромотиращ се украински скулптор
 \bkingofmarble-shmatko\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bklassa\.bg\b
-
-# Сензации / Жълта преса
-\bklassa\.tv\b
-
-# Сензации / Жълта преса
-\bkliukata\.blogspot\.com\b
-
-# Сензации / Жълта преса
-\bkliuki\.bg\b
-
-# Сензации / Жълта преса
-\bkliuki\.net\b
-
-# Сензации / Жълта преса
-\bklukarnik\.com\b
-
-# Сензации / Жълта преса
-\bklukite\.com\b
-
-# Сензации / Жълта преса
-\bkluklu\.bg\b
 
 # [[Уикипедия:Заявки към администраторите/2012/49]]
 \bkoledata\.com\b
 
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\bkonzervativnyvyber\.sk\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\binfo\.kopp-verlag\.de\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bkp\.md\b
-\bkp\.ru\b
-
-# RSS агрегатор
-\bkpd\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\bktovkurse\.com\b
 
 ### L ###
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\blenta\.ru\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\blentata\.com\b
-
-# Сензации / Жълта преса
-\blife\.dir\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\blifenews\.ru\b
-
-# Сензации / Жълта преса
-\blifescandal\.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\blimesonline\.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\blinkiesta\.it\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\blivekuban\.ru\b
-
-# Сензации / Жълта преса
-\blubopitnoto\.net\b
 
 
 ### M ###
 
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bmediacity\.ge\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\bmedzicas\.sk\b
-
-# Сензации / Псевдонаука
-\bmegavselena\.bg\b
-
-# Сензации / Жълта преса
-\bmignews\.info\b
-
-# Сензации / Жълта преса
-\bmodabg\.net\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bmoment-istini\.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\bmy-disain\.ru\b
-
 
 ### N ###
-
-# Мнима медия: http://www.capital.bg/biznes/media_i_reklama/2014/01/03/2213090_sredstva_za_masova_dezinformaciia/
-\bnakratko\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\bnashpoz\.ru\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bnbm\.md\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bnbox\.bg\b
-
-# Сензации / Псевдонаука
-\bnerazgadano\.info\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bnews-front\.info\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bnews359\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bnews4000\.bg\b
-
-# Анонимна медия/агрегатор
-\bnewsbg\.eu\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bnewsmedia\.bg\b
-
-# Мнима медия: http://www.capital.bg/biznes/media_i_reklama/2014/01/03/2213090_sredstva_za_masova_dezinformaciia/
-\bnoligarch\.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bnovarepublika\.cz\b
-
-# Анонимна медия
-\bnovavarna\.net\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bnovini\.cc\b
-
-# Сензации / Жълта преса
-\bnovinibg\.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-# NB: цитирано „Information agency of Novorossia @ Youtube“
-\bnovorosinform\.org\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\bnovorus\.info\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bnreporter\.info\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\bntv\.ru\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bnwoo\.org\b
 
 
 ### O ###
@@ -653,43 +179,8 @@
 # [[Специални:Приноси/193.68.133.137]], [[Специални:Приноси/94.26.24.69]]
 \bobekti\.tourism-bg\.net\b
 
-# Анонимна медия 
-\bobektivno\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\bod-novorossia\.livejournal\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\boff-news\.net\b
-
 # Няма описание на причината
 \bokolosveta\.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\boppps\.ru\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\borgo-net\.blogspot\.be\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\borgo-net\.blogspot\.cz\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\botblizo\.net\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bournet\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bovarna\.bg\b
 
 # Спам - [[Специални:Приноси/Taratantsi]]
 \bozelenyavane\.com\b
@@ -700,87 +191,11 @@
 # [[Уикипедия:Заявки към администраторите/2012/49]]
 \bpage\.tl\b
 
-# Сензации / жълта преса
-\bpaparazzibg\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bperniknews\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bperniktoday\.net\b
-
-# Взаимно препечатващи се анонимни медии:
-# http://www.capital.bg/biznes/media_i_reklama/2015/12/18/2672535_dimnata_zavesa_na_mnimite_medii/
-\bpetel\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bplevenonline\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bplovdiv-dnes\.eu\b
-
-# Манипулативни преводи на статии, например:
-# http://www.plovdivglas.bg/103386/merkel-otide-na-kraka-pri-erdogan-da-go-moli-da-udrzhi-bezha.html
-# http://www.tagesspiegel.de/politik/merkel-bei-erdogan-in-der-fluechtlingskrise-gibt-es-keine-guten-optionen-fuer-den-westen/12931544.html
-\bplovdivglas\.bg\b
-
-# Сензации / Жълта преса
-\bpik\.bg\b
-
 # Спам от множество IP-адреси
 \bpochivka\.com\b
 
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bplovdivmedia\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bplovdivmedia\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bpodtepeto\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bpogled\.info\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\bpolitikus\.ru\b
-
-# Сензации / Жълта преса
-\bportokala\.eu\b
-
 # Спам - [[Специални:Приноси/Polina.naydenova]]
 \bpravatami\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bpravda\.ru\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-# NB: Виж цитираната връзка към опровергаващата статия, http://bit.ly/1S5dDey
-\bpravdanews\.info\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bprozorec\.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\bprotiproud\.parlamentnilisty\.cz\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bprvnizpravy\.parlamentnilisty\.cz\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\bprvopodstata\.com\b
 
 
 ### Q ###
@@ -788,190 +203,23 @@
 
 ### R ###
 
-# Медия, използвана за манипулация на общественото мнение в Европа според брифинг,
-# изготвен от Службата на Европейския парламент за парламентарни изследвания:
-# http://www.europarl.europa.eu/thinktank/bg/document.html?reference=EPRS_BRI(2015)559471
-\brbth\.com\b
-
-# Сензации / Жълта преса
-\brealno\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\bren\.tv\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\bria\.ru\b
-
-# 1.
-# Медия, използвана за манипулация на общественото мнение в Европа според брифинг,
-# изготвен от Службата на Европейския парламент за парламентарни изследвания:
-# http://www.europarl.europa.eu/thinktank/bg/document.html?reference=EPRS_BRI(2015)559471
-# 2.
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\brt\.com\b
-
 # Спам - [[Специални:Приноси/81.26.145.155]]
 \bruskidnevnik\.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-# NB: конкретно посочени в обзора са
-# 1. „Вести недели с Дмитрием Киселевым“, http://russia.tv/brand/show/brand_id/5206/
-# 2. „Воскресный вечер с Владимиром Соловьёвым“, http://russia.tv/brand/show/brand_id/21385/
-\brussia\.tv\b
-
-# 1.
-# Медия, използвана за манипулация на общественото мнение в Европа според брифинг,
-# изготвен от Службата на Европейския парламент за парламентарни изследвания:
-# http://www.europarl.europa.eu/thinktank/bg/document.html?reference=EPRS_BRI(2015)559471
-# 2.
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\brussia-insider\.com\b
 
 
 ### S ###
 
-# Сензации / Псевдонаука
-\bsanovnik\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bscandalplus\.com\b
-
 # Спам от декември 2012, user:Lewis2324
 \bsearchquotes\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bsekirabg\.com\b
-
-# Сензации / Жълта преса
-\bsenzacia\.com\b
-
-# Сензации / Жълта преса
-\bsenzacia\.net\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bsilnabulgaria\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bskandalno\.net\b
-
-# Сензации / Жълта преса
-\bskandalno\.org\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bslivensega\.wordpress\.com\b
 
 # Спам / потенциално зловредни връзки
 \bsoftoworld\.com\b
 
-# Сензации / Жълта преса
-\bsosnovini\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bsouthfront\.org\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bspekulanti\.com\b
-
-# Анонимна медия/агрегатор: 
-\bspeshno\.info\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\bnews\.sputnik\.ru\b
-
-# 1.
-# Медия, използвана за манипулация на общественото мнение в Европа според брифинг,
-# изготвен от Службата на Европейския парламент за парламентарни изследвания:
-# http://www.europarl.europa.eu/thinktank/bg/document.html?reference=EPRS_BRI(2015)559471
-# 2.
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bsputniknews\.com\b
-
-# Сензации / Жълта преса
-\bstars\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bstruma\.bg\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bstruma\.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bsvetkolemnas\.info\b
-
-# Сензации / Жълта преса
-\bsvetsko\.net\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bsvobodnenoviny\.eu\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bsvobodnoslovo\.eu\b
-
 
 ### T ###
 
-# Сензации / Жълта преса
-\btabloidox7\.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\btanya-mass\.livejournal\.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bterra\.md\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\btiras\.ru\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\btitkolthirek\.hu\b
-
-# Анонимна медия (единствено анонимен e-mail адрес в Gmail за връзка)
-\btopactualno\.com\b
-
-# Сензации / Жълта преса
-\btoppresa\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\btribali\.info\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\btry\.bg\b
-
 # Няма описание на причината
 \bturistbg\.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\btvzvezda\.ru\b
 
 
 ### U ###
@@ -979,94 +227,20 @@
 # Спам през различни айпита в над 10 статии на 25 септември 2009
 \budobno\.hit\.bg\b
 
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\bukraina\.ru\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bunian\.net\b
 
 ### V ###
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bversia\.ru\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\bvesti\.ru\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-# NB: Виж цитираната връзка към опровергаващата статия, http://bit.ly/1PNNd0d
-\bvesti-ukr\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bvestnikat\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bvestnikataka\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bvideopchela\.com\b
 
 # Спам
 \bvisit\.bg\b
 
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bvitube\.ge\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bvlasteneckenoviny\.cz\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bvnews\.bg\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_19-01-2016.pdf
-\bvoltairenet\.org\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bvremya-pokazhet\.ru\b
-
-# Сензации / Жълта преса
-\bvruzki\.net\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\bvz\.ru\b
 
 ### W ###
 
 # Спам
 \bwelcome\.bg\b
 
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bwhatdoesitmean\.com\b
-
 # Спам
 \bwizardnote\.com\b
-
-# Разследване: http://mileng.eu/A/B/Osvetlyavane-na-mediite/
-\bworldtodaybg\.com\b
 
 
 ### X ###
@@ -1083,30 +257,9 @@
 
 ### Z ###
 
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bzapernik\.com\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-\bzemavek\.sk\b
-
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation_review_02-02-2016_en.pdf
-\bzerohedge\.com\b
-
-# Анонимна медия: http://www.gadjokov.com/2013/11/30/p941
-\bzoranews\.com\b
-
 
 ### А-Я ###
 
-# Медия, използвана за дезинформация и манипулация на общественото мнение в Европа
-# според седмичния обзор на [[Европейската служба за външна дейност]]:
-# http://eeas.europa.eu/euvsdisinfo/docs/disinformation-review-26-01-2016_en.pdf
-# NB: Виж цитираната връзка към опровергаващата статия, http://bit.ly/1S5dDey
-\bвести\.онлайн\b
 
 
 ### КРАЙ НА СПИСЪКА ###</pre> <!-- НЕ ПРОМЕНЯЙТЕ ТОЗИ РЕД -->
