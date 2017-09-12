@@ -95,11 +95,20 @@
 # Вж. беседата [[МедияУики беседа:Spam-blacklist]]
 \bbansko24\.com\b
 
+# Според https://euvsdisinfo.eu/
+\bblitz\.bg\b
+
+# Според https://euvsdisinfo.eu/
+\bbradva\.bg\b
+
 # Спам / потенциално зловредни връзки
 \bbsb-soft\.com\b
 
 # [[Специални:Приноси/79.132.24.152]], [[Специални:Приноси/79.132.3.212]]
 \bbulgaria-travel\.info\b
+
+# Според https://euvsdisinfo.eu/
+\bbultimes\.com\b
 
 
 ### C ###
@@ -107,6 +116,8 @@
 # Owned by the wikipedia.bg domain cybersquatter - Dimitar Mihaylov Tashev
 \bcmtbg\.com\b
 
+# Според https://euvsdisinfo.eu/
+\bcross\.bg\b
 
 ### D ###
 
@@ -196,6 +207,9 @@
 
 # [[Уикипедия:Заявки към администраторите/2012/49]]
 \bpage\.tl\b
+
+# Според https://euvsdisinfo.eu/
+\bpik\.bg\b
 
 # Спам от множество IP-адреси
 \bpochivka\.com\b
