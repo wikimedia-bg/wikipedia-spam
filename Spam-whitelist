@@ -50,6 +50,8 @@
 # overriding a global blacklist entry
 \bwww\.badastronomy\.com\b
 
+# overriding a global blacklist entry - нужно за [[Уикипедия:Паметни плочи]]
+\bit\.ly/regsof\b
 
 ### C ###
 
