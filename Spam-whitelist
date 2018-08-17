@@ -70,6 +70,9 @@
 
 ### H ###
 
+# overriding a global blacklist entry for hopto.org: http://nuub.hopto.org/greenstone3/sites/localsite/collect/col11/index/assoc/HASHfc68.dir/ZnacajniLicnostiZaBitola.pdf
+\bnuub\.hopto\.org\b
+
 # overriding a global blacklist entry -- служи за източник
 \bhungarybudapestguide\.com\b
 
