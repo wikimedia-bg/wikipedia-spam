@@ -129,6 +129,9 @@
 # overriding a global blacklist entry -- Беседа:Феликс Петанчич‎
 \hrcak\.srce\.hr\b
 
+# Използва се в статии в проект [[Уикипедия:Македония]]
+\bstrumicadenes\.mk\b
+
 ### T ###
 
 
