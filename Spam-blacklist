@@ -190,6 +190,10 @@
 # Вж. беседата [[МедияУики беседа:Spam-blacklist]]
 \bokolosveta\.com\b
 
+# Личен сайт, за чийто стопанин личните нападки към редактори и доксингът са нормални
+# https://bg.wikipedia.org/w/index.php?title=Уикипедия:Разговори&oldid=11040237
+\botizvora\.com\b
+
 # Спам - [[Специални:Приноси/Taratantsi]]
 \bozelenyavane\.com\b
 
